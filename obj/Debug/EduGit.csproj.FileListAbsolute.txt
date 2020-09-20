@@ -1,0 +1,9 @@
+D:\Projects\C#\EduGit\bin\Debug\EduGit.exe.config
+D:\Projects\C#\EduGit\bin\Debug\EduGit.exe
+D:\Projects\C#\EduGit\bin\Debug\EduGit.pdb
+D:\Projects\C#\EduGit\obj\Debug\EduGit.csprojResolveAssemblyReference.cache
+D:\Projects\C#\EduGit\obj\Debug\EduGit.MainForm.resources
+D:\Projects\C#\EduGit\obj\Debug\EduGit.csproj.GenerateResource.Cache
+D:\Projects\C#\EduGit\obj\Debug\EduGit.exe
+D:\Projects\C#\EduGit\obj\Debug\EduGit.pdb
+D:\Projects\C#\EduGit\bin\Debug\Scripts\test.bat
